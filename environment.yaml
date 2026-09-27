@@ -1,0 +1,6 @@
+name: jlab-env
+channels:
+  - conda-forge
+  - defaults
+dependencies: []
+prefix: C:\Users\o_hal\miniconda3\envs\jlab-env
